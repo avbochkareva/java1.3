@@ -12,7 +12,7 @@
 ## Описание процесса тестирования
 
 В качестве тестовых данных использовались встроенные данные https://github.com/netology-code/javaqa-homeworks/tree/master/programming :
-* <Код>(https://github.com/avbochkareva/java1.3/tree/master/src) 
+* [Код](https://github.com/avbochkareva/java1.3/tree/master/src/)
 
 Тестирование производилось в следующем окружении:
 * Windows 10, x64
