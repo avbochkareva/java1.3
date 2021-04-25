@@ -6,28 +6,16 @@
 
 На тестирование затрачено: 0:10 
 
-### В результате тестирования выявлены следующие дефекты:
-**[Неверный расчет бонусов
+В результате тестирования выявлены следующие дефекты:
+* [Неверный расчет бонусов
 ](https://github.com/avbochkareva/java1.3/issues/2)**
 
-### Процесс тестирования
+## Описание процесса тестирования
 
-В процессе тестирования использовались следующие артефакты:
-* Cоздать новый проект по тестированию на IntelliJ IDEA 2020.3.3 
-* Написать базовое приложение, используя [данные](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
-```
-public class Main {
- public static void main(String[] args) {
-    double regularBonus = 0.3;
-    double specialBonus = 0.6;
-    double totalBonus = regularBonus + specialBonus;
-    System.out.println(totalBonus);
-  }
-}
-```
-* Запустить проверку
+В процессе тестирования использовались следующие [артефакты](https://github.com/avbochkareva/java1.3/blob/master/artifact.md).
+В качестве тестовых данных использовались данные из [домашнего задания](https://github.com/netology-code/javaqa-homeworks/tree/master/programming).
 
-### Тестирование производилось в следующем окружении:
+Тестирование производилось в следующем окружении:
 * Windows 10, x64
-* версия Java - 11.0.10
-* IntelliJ IDEA 2020.3.3 
+* версия Java - "11.0.10"
+* IntelliJ IDEA 2020.3.3 (Community edition)
