@@ -8,11 +8,12 @@
 
 В результате тестирования выявлены следующие дефекты:
 * [Неверный расчет бонусов
-](https://github.com/avbochkareva/java1.3/issues/2)**
+](https://github.com/avbochkareva/java1.3/issues/2)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие [артефакты](https://github.com/avbochkareva/java1.3/blob/master/artifact.md).
+
 В качестве тестовых данных использовались данные из [домашнего задания](https://github.com/netology-code/javaqa-homeworks/tree/master/programming).
 
 Тестирование производилось в следующем окружении:
