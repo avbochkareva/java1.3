@@ -1,5 +1,5 @@
-* Cоздать новый проект по тестированию на IntelliJ IDEA 2020.3.3 
-* Написать базовое приложение, используя [данные](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
+
+* Исходный код
 ```
 public class Main {
  public static void main(String[] args) {
@@ -10,4 +10,3 @@ public class Main {
   }
 }
 ```
-* Запустить проверку
